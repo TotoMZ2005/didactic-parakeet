@@ -1,0 +1,482 @@
+[18:38:49] [main/INFO] [cpw.mods.modlauncher.Launcher]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.2.30, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[18:38:49] [main/INFO] [cpw.mods.modlauncher.Launcher]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.2 by Microsoft; OS Linux arch amd64 version 6.2.0-1019-azure
+[18:38:53] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler]: ImmediateWindowProvider not loading because launch target is forgeserver
+[18:38:53] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/codespaces-jupyter/Minecraft-server/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23112!/ Service=ModLauncher Env=SERVER
+[18:38:53] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator]: Found 7 dependencies adding them to mods collection
+[18:38:56] [main/INFO] [mixin]: Compatibility level set to JAVA_17
+[18:38:56] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler]: Launching target 'forgeserver' with arguments [nogui]
+[18:38:56] [main/WARN] [mixin]: Reference map 'handcrafted-forge-1.20.1-forge-refmap.json' for handcrafted.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:38:56] [main/WARN] [mixin]: Reference map '${refmap_target}refmap.json' for corgilib.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:38:56] [main/INFO] [Puzzles Lib]: Loading 44 mods:
+	- another_furniture 1.20.1-3.0.1
+	- argentinas_delight 1.1
+	- caelus 3.1.0+1.20
+	- corgilib 4.0.0.4
+	- cosmeticarmorreworked 1.20.1-v1a
+	- create 0.5.1.f
+	- creativecore 2.11.25
+	- cristellib 1.1.5
+	- curios 5.7.2+1.20.1
+	- dungeons_arise 2.1.57-1.20.1
+	- enhancedcelestials 5.0.0.2
+	- exposure 1.4.1
+	- fallingtree 4.3.4
+	- flywheel 0.6.10-7
+	- forge 47.2.30
+	- framework 0.6.27
+	- geckolib 4.4.4
+	- handcrafted 3.0.5
+	- iceberg 1.1.16
+	- immersive_aircraft 0.7.5+1.20.1
+	- jackseconomy 1.2
+	- jade 11.7.1
+	- jeg 0.2.0
+	- jei 15.3.0.4
+	- man 1.2.4
+	- measurements 2.0.0
+	- minecraft 1.20.1
+	- moa_decor_science 1.20.1
+	- mohist 1.20.1
+	- mr_dungeons_andtaverns 1-v2.1.4
+	- parcool 1.20.1-3.1.0.6-R
+	- playeranimator 1.0.2-rc1+1.20
+	- playerrevive 2.0.24
+	- puzzlesaccessapi 8.0.7
+	- puzzleslib 8.1.18
+	- resourcefullib 2.1.1
+	- spectre 1.0.0
+	- structure_gel 2.16.0
+	- terrablender 3.0.1.4
+	- trapcraft 2.10.2
+	- travelersbackpack 9.1.12
+	- twilightforest 4.3.2145
+	- worldedit 7.2.15+6463-5ca4dff
+	- xaerominimap 24.1.1
+[18:38:56] [main/WARN] [mixin]: Reference map 'jackseconomy.refmap.json' for jackseconomy.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:38:56] [main/WARN] [mixin]: Reference map 'cristellib-forge-refmap.json' for cristellib.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:39:10] [modloading-worker-0/INFO] [Puzzles Lib]: Constructing common components for puzzleslib:main
+[18:39:10] [modloading-worker-0/INFO] [com.mohistmc.MohistMC]: Mohist mod loading.....
+[18:39:10] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod]: Forge mod loading, version 47.2.30, for MC 1.20.1 with MCP 20230612.114412
+[18:39:10] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge]: MinecraftForge v47.2.30 Initialized
+[18:39:10] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge]: NeoForge v47.2.30 Initialized
+[18:39:10] [modloading-worker-0/INFO] [com.mohistmc.MohistMC]: EventDispatcherRegistry initialized
+[18:39:17] [main/INFO] [ModdingLegacy/StructureGel]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[18:39:17] [main/INFO] [ModdingLegacy/StructureGel]: [structure_gel] Registering data for structure_gel:data_handler_type
+[18:39:17] [main/INFO] [ModdingLegacy/StructureGel]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[18:39:17] [main/INFO] [ModdingLegacy/StructureGel]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[18:39:17] [modloading-worker-0/INFO] [corgitaco.enhancedcelestials.EnhancedCelestials]: Initialized enhancedcelestials network!
+[18:39:17] [modloading-worker-0/INFO] [CorgiLib]: Initializing network...
+[18:39:17] [modloading-worker-0/INFO] [CorgiLib]: Initialized network!
+[18:39:17] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@74582731]
+[18:39:17] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit]: WorldEdit for Forge (version 7.2.15+6463-5ca4dff) is loaded
+[18:39:17] [main/INFO] [Framework]: Registered synced data key jeg:aiming for minecraft:player
+[18:39:17] [main/INFO] [Framework]: Registered synced data key jeg:reloading for minecraft:player
+[18:39:17] [main/INFO] [Framework]: Registered synced data key jeg:shooting for minecraft:player
+[18:39:18] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[18:39:18] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[18:39:18] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[18:39:18] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[18:39:18] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[18:39:18] [main/INFO] [xaero.minimap.XaeroMinimap]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[18:39:18] [modloading-worker-0/INFO] [Jade]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[18:39:18] [modloading-worker-0/INFO] [Jade]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[18:39:18] [modloading-worker-0/INFO] [Jade]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[18:39:18] [modloading-worker-0/INFO] [Jade]: Start loading plugin at twilightforest.compat.jade.JadeCompat
+[18:39:22] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:39:27] [main/ERROR] [Cristel Lib]: Cristel Lib Config Pack has no data
+[18:39:28] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[18:39:29] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager]: Loaded 31 recipes
+[18:39:30] [main/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 3354 advancements
+[18:39:30] [main/INFO] [top.theillusivec4.curios.Curios]: Loaded 11 curio slots
+[18:39:30] [main/INFO] [top.theillusivec4.curios.Curios]: Loaded 1 curio entities
+[18:39:30] [main/INFO] [twilightforest]: Loaded 9 Stalactite configs!
+[18:39:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.20.1
+[18:39:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[18:39:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[18:39:33] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Generating keypair
+[18:39:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[18:39:33] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener]: Using epoll channel type
+[18:39:34] [Server thread/INFO] [Minecraft]: This server is running Mohist version 1.20.1-689 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT, Forge version 47.2.30, NeoForge version 47.1.79)
+[18:39:35] [Server thread/INFO] [Minecraft]: Debug logging is enabled
+[18:39:35] [Server thread/INFO] []: Server Ping Player Sample Count: 20
+[18:39:35] [Server thread/INFO] [Minecraft]: Using 4 threads for Netty based IO
+[18:39:37] [Server thread/ERROR] [Minecraft]: Could not load 'plugins/worldguard-bukkit-7.0.9-dist (2).jar' in folder 'plugins'
+org.bukkit.plugin.UnknownDependencyException: Unknown dependency WorldEdit. Please download and install WorldEdit to run this plugin.
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:271) ~[forge-1.20.1-47.2.30-universal.jar%23279!/:?]
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.loadPlugins(CraftServer.java:436) ~[forge-1.20.1-47.2.30-universal.jar%23279!/:997de31d-ddc9a2dad-d2eba2c8-47.1.79]
+	at net.minecraft.server.dedicated.DedicatedServer.m_7038_(DedicatedServer.java:216) ~[server-1.20.1-20230612.114412-srg.jar%23274!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:848) ~[server-1.20.1-20230612.114412-srg.jar%23274!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:281) ~[server-1.20.1-20230612.114412-srg.jar%23274!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[18:39:39] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Loading LuckPerms v5.4.102
+[18:39:40] [Server thread/INFO] [com.earth2me.essentials.Essentials]: [Essentials] Loading Essentials v2.21.0-dev+78-c60ed56
+[18:39:40] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.5
+[18:39:40] [Server thread/INFO] [com.onarandombox.MultiverseCore.MultiverseCore]: [Multiverse-Core] Loading Multiverse-Core v4.3.1-b861
+[18:39:40] [Server thread/INFO] [com.comphenix.protocol.ProtocolLib]: [ProtocolLib] Loading ProtocolLib v5.2.0-SNAPSHOT-679
+[18:39:40] [Server thread/WARN] [com.comphenix.protocol.ProtocolLib]: [ProtocolLib] Loaded class javax.annotation.Nonnull from DiscordSRV v1.27.0 which is not a depend or softdepend of this plugin.
+[18:39:43] [Server thread/INFO] [br.net.fabiozumbi12.RedProtect.Bukkit.RedProtect]: [RedProtect] Loading RedProtect v8.1.1-SNAPSHOT
+[18:39:43] [Server thread/INFO] [com.nisovin.shopkeepers.SKShopkeepersPlugin]: [Shopkeepers] Loading Shopkeepers v2.19.0
+[18:39:44] [Server thread/INFO] [com.nisovin.shopkeepers.SKShopkeepersPlugin]: [Shopkeepers] Loaded all plugin classes (1117 ms).
+[18:39:44] [Server thread/INFO] [com.nisovin.shopkeepers.SKShopkeepersPlugin]: [Shopkeepers] Loading config.
+[18:39:44] [Server thread/WARN] [com.nisovin.shopkeepers.SKShopkeepersPlugin]: [Shopkeepers] Config: Forcefully enabled 'disable-inventory-verification' to resolve a known incompatibility with Mohist servers.
+[18:39:44] [Server thread/INFO] [com.nisovin.shopkeepers.SKShopkeepersPlugin]: [Shopkeepers] Loading language file: language-en-default.yml
+[18:39:44] [Server thread/INFO] [com.nisovin.shopkeepers.SKShopkeepersPlugin]: [Shopkeepers] Registering defaults.
+[18:39:44] [Server thread/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Loading DiscordSRV v1.27.0
+[18:39:44] [Server thread/INFO] [xzot1k.plugins.sp.SimplePortals]: [SimplePortals] Loading SimplePortals v1.7.5
+[18:39:44] [Server thread/INFO] [ce.ajneb97.ConditionalEvents]: [ConditionalEvents] Loading ConditionalEvents v4.50.1
+[18:39:44] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Enabling LuckPerms v5.4.102
+[18:39:45] [Server thread/INFO] [Console]:         __    
+[18:39:45] [Server thread/INFO] [Console]:   |    |__)   LuckPerms v5.4.102
+[18:39:45] [Server thread/INFO] [Console]:   |___ |      Running on Bukkit - Mohist
+[18:39:45] [Server thread/INFO] [Console]: 
+[18:39:45] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Loading configuration...
+[18:39:46] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Loading storage provider... [H2]
+[18:39:48] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Loading internal permission managers...
+[18:39:48] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Performing initial data load...
+[18:39:48] [Server thread/INFO] [me.lucko.luckperms.bukkit.loader.BukkitLoaderPlugin]: [LuckPerms] Successfully enabled. (took 4198ms)
+[18:39:48] [Server thread/INFO] [com.comphenix.protocol.ProtocolLib]: [ProtocolLib] Enabling ProtocolLib v5.2.0-SNAPSHOT-679
+[18:39:49] [Server thread/INFO] [Framework]: Loading server configs...
+[18:39:49] [Server thread/INFO] [terrablender]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[18:39:49] [Server thread/INFO] [terrablender]: Registered region minecraft:nether to index 0 for type NETHER
+[18:39:49] [Server thread/INFO] [terrablender]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[18:39:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[18:39:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension minecraft:overworld
+[18:39:50] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:39:51] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:39:51] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:39:51] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:39:51] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 4%
+[18:39:52] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 87%
+[18:39:52] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 2573 ms
+[18:39:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension twilightforest:twilight_forest
+[18:39:52] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:39:52] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:39:53] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 1%
+[18:39:53] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 10%
+[18:39:54] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 17%
+[18:39:54] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 2497 ms
+[18:39:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension minecraft:the_nether
+[18:39:55] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:39:55] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:39:56] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:39:56] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 64%
+[18:39:56] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 1644 ms
+[18:39:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension man:halucination
+[18:39:56] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:39:57] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:39:57] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 5%
+[18:39:58] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 22%
+[18:39:58] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 1844 ms
+[18:39:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension minecraft:the_end
+[18:39:59] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:39:59] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:39:59] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:39:59] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 70%
+[18:40:00] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 1614 ms
+[18:40:00] [Server thread/INFO] [com.earth2me.essentials.Essentials]: [Essentials] Enabling Essentials v2.21.0-dev+78-c60ed56
+[18:40:00] [Server thread/ERROR] [Essentials]: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
+[18:40:00] [Server thread/INFO] [Essentials]: Status determining class: brand:Mohist
+[18:40:00] [Server thread/INFO] [Essentials]: Attempting to convert old kits in config.yml to new kits.yml
+[18:40:00] [Server thread/INFO] [Essentials]: No kits found to migrate.
+[18:40:01] [Server thread/INFO] [Essentials]: Loaded 39095 items from items.json.
+[18:40:01] [Server thread/INFO] [Essentials]: Using locale en
+[18:40:01] [Server thread/INFO] [Essentials]: ServerListPingEvent: Spigot iterator API
+[18:40:01] [Server thread/INFO] [Essentials]: Starting Metrics. Opt-out using the global bStats config.
+[18:40:01] [Server thread/WARN] [Essentials]: Detected supported permissions plugin LuckPerms without Vault installed.
+[18:40:01] [Server thread/WARN] [Essentials]: Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[18:40:01] [Server thread/INFO] [Essentials]: Using superperms-based permissions.
+[18:40:01] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.5
+[18:40:02] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin]: [PlaceholderAPI] Fetching available expansion information...
+[18:40:02] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin]: [PlaceholderAPI] Successfully registered internal expansion: mohist [1.20.1]
+[18:40:02] [Server thread/INFO] [com.mohistmc.MohistMC]: Hook PlaceholderAPI!
+[18:40:02] [Server thread/INFO] [com.onarandombox.MultiverseCore.MultiverseCore]: [Multiverse-Core] Enabling Multiverse-Core v4.3.1-b861
+[18:40:02] [Server thread/WARN] [com.onarandombox.MultiverseCore.MultiverseCore]: [Multiverse-Core] "Multiverse-Core v4.3.1-b861" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[18:40:02] [Server thread/INFO] [Minecraft]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Exception while loading value for environment
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Exception while loading value for environment
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Exception while loading value for environment
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Exception while loading value for environment
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Exception while loading value for environment
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Exception while loading value for environment
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Exception while loading value for environment
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Exception while loading value for environment
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Exception while loading value for environment
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Exception while loading value for environment
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Exception while loading value for environment
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Exception while loading value for environment
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Exception while loading value for environment
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Exception while loading value for environment
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: southern
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: lobby-1
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: past
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: after_place
+[18:40:02] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[18:40:02] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for dimension minecraft:mundo
+[18:40:03] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:40:03] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:40:03] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:40:03] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:40:04] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:40:05] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 0%
+[18:40:05] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Preparing spawn area: 4%
+[18:40:05] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener]: Time elapsed: 3507 ms
+[18:40:05] [Server thread/WARN] [Minecraft]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: lobby2
+[18:40:05] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[18:40:05] [Server thread/WARN] [Minecraft]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: northern
+[18:40:05] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[18:40:05] [Server thread/WARN] [Minecraft]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: lobby1
+[18:40:05] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[18:40:05] [Server thread/WARN] [Minecraft]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: lobby
+[18:40:05] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[18:40:05] [Server thread/WARN] [Minecraft]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: the_aether
+[18:40:05] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[18:40:05] [Server thread/INFO] [Minecraft]: [Multiverse-Core] 6 - World(s) loaded.
+[18:40:05] [Server thread/WARN] [Minecraft]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[18:40:06] [Server thread/INFO] [Minecraft]: [Multiverse-Core] Version 4.3.1-b861 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[18:40:06] [Server thread/INFO] [br.net.fabiozumbi12.RedProtect.Bukkit.RedProtect]: [RedProtect] Enabling RedProtect v8.1.1-SNAPSHOT
+[18:40:06] [Server thread/INFO] [Console]: [RedProtect] Server version: 1.20.1-R0.1-SNAPSHOT
+[18:40:06] [Server thread/INFO] [Console]: [RedProtect] All configurations loaded!
+[18:40:06] [Server thread/INFO] [Console]: [RedProtect] Language file loaded - Using: EN-US
+[18:40:06] [Server thread/INFO] [Console]: [RedProtect] Registering commands...
+[18:40:06] [Server thread/INFO] [Console]: [RedProtect] Registering listeners...
+[18:40:06] [Server thread/INFO] [Console]: [RedProtect] Essentials found. Hooked.
+[18:40:06] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin]: [PlaceholderAPI] Successfully registered internal expansion: redprotect [8.1.1-SNAPSHOT]
+[18:40:06] [Server thread/INFO] [Console]: [RedProtect] PlaceHolderAPI found. Hooked and registered some chat placeholders.
+[18:40:06] [Server thread/INFO] [Console]: [RedProtect] - Loading world's regions...
+[18:40:06] [Server thread/INFO] [Console]: [RedProtect] - Loading twilight_forest's regions...
+[18:40:06] [Server thread/INFO] [Console]: [RedProtect] - Loading DIM-1's regions...
+[18:40:06] [Server thread/INFO] [Console]: [RedProtect] - Loading halucination's regions...
+[18:40:06] [Server thread/INFO] [Console]: [RedProtect] - Loading DIM1's regions...
+[18:40:06] [Server thread/INFO] [Console]: [RedProtect] - Loading mundo's regions...
+[18:40:06] [Server thread/INFO] [Console]: [RedProtect] Auto-save Scheduler: Saving file database every 60 minutes!
+[18:40:06] [Server thread/INFO] [Console]: [RedProtect] There are 0 regions on (file) database!
+[18:40:06] [Server thread/INFO] [Console]: [RedProtect] Helper version: Latest
+[18:40:06] [Server thread/INFO] [Console]: [RedProtect] Loading GuiFlags for 1.14+
+[18:40:06] [Server thread/INFO] [Console]: [RedProtect] Metrics enabled! See our stats here: https://bstats.org/plugin/bukkit/RedProtect
+[18:40:06] [Server thread/INFO] [Console]: [RedProtect] Loading API...
+[18:40:06] [Server thread/INFO] [Console]: [RedProtect] API Loaded!
+[18:40:06] [Server thread/INFO] [Console]:  _   _  _   _   _   _  _ _  _  _ _ _  _
+[18:40:06] [Server thread/INFO] [Console]: |_| |_ | \ |_| |_| | |  |  |_ |   |  |_|
+[18:40:06] [Server thread/INFO] [Console]: | \ |_ |_/ |   | \ |_|  |  |_ |_  |  |_|
+[18:40:06] [Server thread/INFO] [Console]: » RedProtect v8.1.1-SNAPSHOT enabled
+[18:40:06] [Server thread/INFO] [Console]: 
+[18:40:06] [Server thread/INFO] [com.nisovin.shopkeepers.SKShopkeepersPlugin]: [Shopkeepers] Enabling Shopkeepers v2.19.0
+[18:40:07] [Server thread/INFO] [com.nisovin.shopkeepers.SKShopkeepersPlugin]: [Shopkeepers] Loading the data of 12 shopkeepers ...
+[18:40:07] [Server thread/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Enabling DiscordSRV v1.27.0
+[18:40:07] [Server thread/INFO] [xzot1k.plugins.sp.SimplePortals]: [SimplePortals] Enabling SimplePortals v1.7.5
+[18:40:07] [Server thread/INFO] [Minecraft]: [SimplePortals] Everything inside the configuration seems to be up to date. (Took 4ms)
+[18:40:07] [Server thread/INFO] [Minecraft]: [SimplePortals] Packets have been setup for v1_20_R1!
+[18:40:07] [Server thread/INFO] [Minecraft]: [SimplePortals] Everything looks like it is up to date!
+[18:40:07] [Server thread/INFO] [ce.ajneb97.ConditionalEvents]: [ConditionalEvents] Enabling ConditionalEvents v4.50.1
+[18:40:07] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin]: [PlaceholderAPI] Successfully registered internal expansion: conditionalevents [4.50.1]
+[18:40:07] [Server thread/INFO] [Console]: [ConditionalEvents] Has been enabled! Version: 4.50.1
+[18:40:07] [Server thread/INFO] [Console]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[18:40:08] [Server thread/INFO] [com.mohistmc.plugins.Main]: [Mohist] Enabling Mohist v1.20.1
+[18:40:08] [pool-20-thread-1/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] DiscordSRV is up-to-date. (6405e850eea61a4b9bf4f0d0cbb80fe20b3cfb90)
+[18:40:08] [Server thread/INFO] [Minecraft]: Server permissions file permissions.yml is empty, ignoring it
+[18:40:08] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[18:40:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (19.211s)! For help, type "help"
+[18:40:08] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI]: Successfully initialized permission handler forge:default_handler
+[18:40:08] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI]: Forwarding forge permission[forge:default_handler] to bukkit[mohist:permission]
+[18:40:10] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] [JDA] Login Successful!
+[18:40:10] [JDA MainWS-ReadThread/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] [JDA] Connected to WebSocket
+[18:40:11] [JDA MainWS-ReadThread/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] [JDA] Finished Loading!
+[18:40:11] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Found server G:Server de TroloMz (Bot)(897200932243251282)
+[18:40:11] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:fotos-toto(1056467643114213448)
+[18:40:11] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:videos-toto(1104592811904479304)
+[18:40:11] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:landing-spot(1184634863551266862)
+[18:40:11] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:fotos-fortnite(1150142068375703713)
+[18:40:11] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:consola-mc(1231802208983715981)
+[18:40:11] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:╔『🚩』bienvenidas(898645772541779969)
+[18:40:11] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:║『🌟』nitro-boost(1197006115842555963)
+[18:40:11] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:╚『⭐』roles(897273525746954280)
+[18:40:11] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:╔『🔎』general(998634116977270795)
+[18:40:11] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:║-chat-mc(1231802587330641953)
+[18:40:11] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:mods-mc(1232454009395216384)
+[18:40:11] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] - TC:║ip-mc(1232816944823009331)
+[18:40:11] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Console forwarding assigned to channel TC:consola-mc(1231802208983715981)
+[18:40:12] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Enabling Essentials hook
+[18:40:12] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Enabling LuckPerms hook
+[18:40:12] [DiscordSRV - Initialization/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Enabling PlaceholderAPI hook
+[18:40:12] [DiscordSRV - Channel Topic Updater/WARN] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Could not set topic of channel TC:║-chat-mc(1231802587330641953) because the bot does not have the "Read Text Channels & See Voice Channels" permission
+[18:40:12] [DiscordSRV - Channel Topic Updater/WARN] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Could not set topic of channel TC:consola-mc(1231802208983715981) because the bot does not have the "Manage Channels" permission
+[18:40:14] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin]: [PlaceholderAPI] Successfully registered external expansion: objective [4.2.0]
+[18:40:14] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[18:40:14] [Server thread/INFO] [Console]: 2 placeholder hook(s) registered!
+[18:40:14] [Craft Scheduler Thread - 0/INFO] [Essentials]: Fetching version information...
+[18:40:14] [Server thread/INFO] [me.clip.placeholderapi.PlaceholderAPIPlugin]: [PlaceholderAPI] Successfully registered internal expansion: discordsrv [1.27.0]
+[18:40:15] [DiscordSRV - JDA Callback 0/INFO] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Cleared all pre-existing slash commands in 1/1 guilds (0 cancelled)
+[18:40:15] [Server thread/WARN] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Could not send message in channel TC:║-chat-mc(1231802587330641953) because the bot does not have the "Read Text Channels & See Voice Channels" permission
+[18:40:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: TotoMZ joined the game
+[18:40:56] [Server thread/INFO] [Jade]: Syncing config to TotoMZ (7ef1538f-792a-42bd-b310-3faedad50ab3)
+[18:40:56] [Server thread/INFO] [net.minecraft.server.players.PlayerList]: TotoMZ[/127.0.0.1:40110] logged in with entity id 451 at ([world]-513.4664504316966, 101.0, 263.145421190033)
+[18:40:57] [Craft Scheduler Thread - 0/WARN] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Could not send message in channel TC:║-chat-mc(1231802587330641953) because the bot does not have the "Read Text Channels & See Voice Channels" permission
+[18:41:08] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /gamemode c
+[18:41:18] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /portal create mundo
+[18:41:28] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /portal create mundo13212
+[18:41:35] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /portals
+[18:41:39] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /portals list
+[18:42:05] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /mv tp mundo
+[18:42:09] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /gamemode c
+[18:42:13] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /portal create mundo
+[18:42:38] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /mv tp world
+[18:42:50] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /gamemode c
+[18:42:56] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /portal sm
+[18:43:04] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /portal create mundo
+[18:43:11] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /mv tp mundo
+[18:43:14] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /gamemode c
+[18:43:21] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /portal setlocation mundo
+[18:43:25] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /gamemode c
+[18:43:29] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /lobby
+[18:43:35] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /gamemodec
+[18:43:37] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /gamemode C
+[18:44:11] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //set 0
+[18:44:42] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /gamemode c
+[18:44:56] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /lobby
+[18:45:00] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /gamemodec
+[18:45:02] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /gamemode cv
+[18:45:04] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /gamemode c
+[18:46:01] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /portal fill mundo WATER
+[18:46:27] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /give TotoMZ barrier
+[18:46:39] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //set 0
+[18:46:50] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //set 0
+[18:47:03] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /portal fill mundo AIR
+[18:47:22] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /lobby
+[18:47:40] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /gamemode c
+[18:47:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: TotoMZ has made the advancement [Ice Bucket Challenge]
+[18:47:52] [Craft Scheduler Thread - 6/WARN] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Could not send message in channel TC:║-chat-mc(1231802587330641953) because the bot does not have the "Read Text Channels & See Voice Channels" permission
+[18:47:52] [Craft Scheduler Thread - 3/WARN] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Could not send message in channel TC:║-chat-mc(1231802587330641953) because the bot does not have the "Read Text Channels & See Voice Channels" permission
+[18:47:52] [Craft Scheduler Thread - 4/WARN] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Could not send message in channel TC:║-chat-mc(1231802587330641953) because the bot does not have the "Read Text Channels & See Voice Channels" permission
+[18:48:30] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //copy
+[18:48:35] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:48:43] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //rotate 90
+[18:48:45] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:48:49] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //undo
+[18:48:50] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //undo
+[18:49:03] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /lobby
+[18:49:07] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /gamemode c
+[18:49:16] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:49:18] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:49:20] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:49:20] [Server thread/ERROR] [net.minecraft.world.entity.ai.village.poi.PoiSection]: POI data mismatch: never registered at BlockPos{x=-517, y=102, z=263}
+[18:49:21] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:49:24] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:49:34] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //set 0
+[18:49:37] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:49:39] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:49:40] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:49:41] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:49:44] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /
+[18:49:48] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:49:51] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:49:52] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:49:56] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:49:58] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /
+[18:50:05] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:50:08] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:50:12] [DiscordSRV - Channel Topic Updater/WARN] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Could not set topic of channel TC:║-chat-mc(1231802587330641953) because the bot does not have the "Read Text Channels & See Voice Channels" permission
+[18:50:12] [DiscordSRV - Channel Topic Updater/WARN] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Could not set topic of channel TC:consola-mc(1231802208983715981) because the bot does not have the "Manage Channels" permission
+[18:50:12] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:50:13] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:50:17] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:50:21] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:50:25] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:50:27] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:50:31] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:50:32] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:50:33] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:50:40] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //set 0
+[18:50:48] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:50:51] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //set 0
+[18:50:54] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:50:58] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //set 0
+[18:51:00] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:51:02] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:51:03] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:51:06] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //set 0
+[18:51:08] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:51:09] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:51:12] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:51:22] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //copy
+[18:51:25] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //copy
+[18:51:29] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //set 0
+[18:51:32] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:51:35] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //set 0
+[18:51:38] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:51:41] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //set 0
+[18:51:43] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:51:46] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //set 0
+[18:51:48] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //paste
+[18:52:22] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /lobby
+[18:52:23] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /gamemode c
+[18:52:28] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: /
+[18:52:31] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //set 0
+[18:52:33] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //set 0
+[18:52:43] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //set 0
+[18:52:59] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ issued server command: //set 0
+[18:53:11] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl]: TotoMZ lost connection: Disconnected
+[18:53:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: TotoMZ left the game
+[18:53:11] [Craft Scheduler Thread - 3/WARN] [github.scarsz.discordsrv.DiscordSRV]: [DiscordSRV] Could not send message in channel TC:║-chat-mc(1231802587330641953) because the bot does not have the "Read Text Channels & See Voice Channels" permission
+[18:53:23] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Input/output error
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:170) ~[jline-reader-3.21.0.jar%23109!/:?]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110) ~[jline-reader-3.21.0.jar%23109!/:?]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:61) ~[jline-reader-3.21.0.jar%23109!/:?]
+	at org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923) ~[jline-reader-3.21.0.jar%23109!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956) ~[jline-reader-3.21.0.jar%23109!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651) ~[jline-reader-3.21.0.jar%23109!/:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468) ~[jline-reader-3.21.0.jar%23109!/:?]
+	at net.minecraftforge.server.console.TerminalHandler.handleCommands(TerminalHandler.java:46) ~[forge-1.20.1-47.2.30-universal.jar%23279!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:93) ~[server-1.20.1-20230612.114412-srg.jar%23274!/:?]
+Caused by: java.io.IOException: Input/output error
+	at java.io.FileInputStream.read0(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:231) ~[?:?]
+	at org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73) ~[jline-terminal-3.21.0.jar%23110!/:?]
+	at org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62) ~[jline-terminal-3.21.0.jar%23110!/:?]
+	at org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168) ~[jline-terminal-3.21.0.jar%23110!/:?]
+	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57) ~[jline-terminal-3.21.0.jar%23110!/:?]
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160) ~[jline-reader-3.21.0.jar%23109!/:?]
+	... 8 more
+[18:53:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[18:53:23] [Server thread/INFO] [Console]: [ConditionalEvents] Has been disabled! Version: 4.50.1
+[18:53:23] [Server thread/INFO] [Console]: [RedProtect] Saving world's regions...
+[18:53:23] [Server thread/INFO] [Console]: [RedProtect] Saving halucination's regions...
+[18:53:23] [Server thread/INFO] [Console]: [RedProtect] Saving mundo's regions...
+[18:53:23] [Server thread/INFO] [Console]: [RedProtect] Saving DIM1's regions...
+[18:53:23] [Server thread/INFO] [Console]: [RedProtect] Saving DIM-1's regions...
+[18:53:23] [Server thread/INFO] [Console]: [RedProtect] Saving twilight_forest's regions...
+[18:53:23] [Server thread/INFO] [Console]: [RedProtect] Unregistering listeners...
+[18:53:23] [Server thread/INFO] [Console]: [RedProtect] RedProtect v8.1.1-SNAPSHOT turned off...
+[18:53:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[18:53:23] [Thread-7/WARN] []: Exception in thread "Thread-7" java.lang.NoClassDefFoundError: org/h2/api/ErrorCode
+[18:53:23] [Thread-7/WARN] []: 	at org.h2.message.DbException.getJdbcSQLException(DbException.java:475)
+[18:53:23] [Thread-7/WARN] []: 	at org.h2.message.DbException.get(DbException.java:212)
+[18:53:23] [Thread-7/WARN] []: 	at org.h2.mvstore.db.Store.close(Store.java:402)
+[18:53:23] [Thread-7/WARN] []: 	at org.h2.engine.Database.closeOpenFilesAndUnlock(Database.java:1261)
+[18:53:23] [Thread-7/WARN] []: 	at org.h2.engine.Database.closeImpl(Database.java:1225)
+[18:53:23] [Thread-7/WARN] []: 	at org.h2.engine.Database.close(Database.java:1144)
+[18:53:23] [Thread-7/WARN] []: 	at org.h2.engine.OnExitDatabaseCloser.onShutdown(OnExitDatabaseCloser.java:85)
+[18:53:23] [Thread-7/WARN] []: 	at org.h2.engine.OnExitDatabaseCloser.run(OnExitDatabaseCloser.java:114)
+[18:53:23] [Thread-7/WARN] []: Caused by: java.lang.ClassNotFoundException: org.h2.api.ErrorCode
+[18:53:23] [Thread-7/WARN] []: 	at TRANSFORMER/forge@47.2.30/com.mohistmc.bukkit.remapping.RemappingURLClassLoader.findClass(RemappingURLClassLoader.java:98)
+[18:53:23] [Thread-7/WARN] []: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:593)
+[18:53:23] [Thread-7/WARN] []: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
+[18:53:23] [Thread-7/WARN] []: 	... 8 more
+[18:53:23] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[18:53:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:53:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[18:54:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:54:13] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/man:halucination
+[18:54:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:54:14] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'ServerLevel[mundo]'/minecraft:mundo
+[18:54:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:54:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[18:54:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:54:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
+[18:54:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:54:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ThreadedAnvilChunkStorage (mundo): All chunks are saved
+[18:54:15] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:54:15] [Server thread/INFO] [Framework]: Unloading server configs...

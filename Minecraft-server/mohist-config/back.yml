@@ -1,0 +1,10 @@
+7ef1538f-792a-42bd-b310-3faedad50ab3:
+  location:
+    ==: org.bukkit.Location
+    world: mundo
+    x: 112.76482320590335
+    y: 67.0
+    z: -490.8497522510687
+    pitch: 17.917284
+    yaw: 39.58136
+  type: TELEPORT

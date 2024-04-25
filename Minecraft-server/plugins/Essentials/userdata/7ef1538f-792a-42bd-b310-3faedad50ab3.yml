@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1714071191874
+  login: 1714070456898
+money: '0'
+last-account-name: TotoMZ
+logoutlocation:
+  world: 58b54a9d-f7a2-4e1a-a878-e23df60997f4
+  world-name: world
+  x: -479.68819175643733
+  y: 103.5329170323066
+  z: 263.8303788213798
+  yaw: -89.42257690429688
+  pitch: 22.055091857910156

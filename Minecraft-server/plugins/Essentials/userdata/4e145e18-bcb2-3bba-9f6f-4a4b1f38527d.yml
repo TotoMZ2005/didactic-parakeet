@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1713735134869
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1713993673405
+  login: 1713993540567
+money: '0'
+last-account-name: TotoMZ
+homes:
+  casa:
+    world: 5c6e26ba-133c-4459-8c97-e3fcdbd7c835
+    world-name: world
+    x: -29.73895554335205
+    y: 70.0
+    z: 143.41846154861273
+    yaw: -46.44197463989258
+    pitch: 3.015536308288574
+lastlocation:
+  world: 58b54a9d-f7a2-4e1a-a878-e23df60997f4
+  world-name: lobby
+  x: -464.42047718228827
+  y: 100.0
+  z: 266.3888344315054
+  yaw: 47.425537109375
+  pitch: 10.435274124145508
+logoutlocation:
+  world: 5c6e26ba-133c-4459-8c97-e3fcdbd7c835
+  world-name: world
+  x: -14.331210716374196
+  y: 70.0
+  z: 141.31266347688208
+  yaw: -31.29833984375
+  pitch: 11.677271842956543

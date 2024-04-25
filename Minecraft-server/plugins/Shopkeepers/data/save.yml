@@ -1,0 +1,842 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyways, ensure that the server is not running currently and that you have prepared a backup of this file.
+
+data-version: 3|2|3465
+'20':
+  uniqueId: 0d19ab0a-1a0e-4f0b-9a1f-b42d7f5b28fd
+  world: lobby
+  x: -415
+  y: 103
+  z: 263
+  yaw: 84.756485
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: NITWIT
+    villagerType: PLAINS
+    villagerLevel: 2
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_THE_PHAT_WALLET
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: PAPER
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_DOLLAR_BILL
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: EMERALD
+        amount: 5
+  snapshots: []
+'21':
+  uniqueId: 373fd230-3fcc-4f34-8f5f-6d673a96bb7e
+  world: lobby
+  x: -469
+  y: 100
+  z: 248
+  yaw: 345.1237
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: CREATE_CREATIVE_MOTOR
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_THOUSAND_DOLLAR_BILL
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: SPAWNER
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_THOUSAND_DOLLAR_BILL
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ZOMBIE_SPAWN_EGG
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_HUNDRED_DOLLAR_BILL
+        amount: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_FIFTY_DOLLAR_BILL
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: SPIDER_SPAWN_EGG
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_HUNDRED_DOLLAR_BILL
+        amount: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_FIFTY_DOLLAR_BILL
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: SKELETON_SPAWN_EGG
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_HUNDRED_DOLLAR_BILL
+        amount: 2
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_FIFTY_DOLLAR_BILL
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENCHANTED_GOLDEN_APPLE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_HUNDRED_DOLLAR_BILL
+        amount: 5
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLDEN_APPLE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_FIFTY_DOLLAR_BILL
+  snapshots: []
+'23':
+  uniqueId: 5a07d7fe-6437-4a27-8e04-e1066dac1a47
+  world: lobby
+  x: -461
+  y: 100
+  z: 248
+  yaw: 350.45367
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MEASUREMENTS_TAPE_MEASURE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_DOLLAR_BILL
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: SKELETON_SKULL
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_TWENTY_DOLLAR_BILL
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: PLAYER_HEAD
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_TWENTY_DOLLAR_BILL
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ZOMBIE_HEAD
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_TWENTY_DOLLAR_BILL
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: CREEPER_HEAD
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_TWENTY_DOLLAR_BILL
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: PIGLIN_HEAD
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_TWENTY_DOLLAR_BILL
+  snapshots: []
+'24':
+  uniqueId: cdd42939-81b2-4230-940f-9ed49de08644
+  world: lobby
+  x: -477
+  y: 100
+  z: 248
+  yaw: 357.66074
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: EXPERIENCE_BOTTLE
+        amount: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_HUNDRED_DOLLAR_BILL
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JEG_SCRAP
+        amount: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_TEN_DOLLAR_BILL
+  snapshots: []
+'25':
+  uniqueId: 9455a61e-fa2c-4525-915e-6c12de53f028
+  world: lobby
+  x: -469
+  y: 100
+  z: 238
+  yaw: 356.93753
+  type: admin
+  name: Fiorito
+  object:
+    type: villager
+    baby: false
+    profession: MAN_CULTIST
+    villagerType: SNOW
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GREEN_DYE
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          display-name: '{"text":"Merca"}'
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_THOUSAND_DOLLAR_BILL
+  snapshots: []
+'27':
+  uniqueId: 098f9030-4de5-4bca-8c41-26b523298960
+  world: world
+  x: -469
+  y: 100
+  z: 252
+  yaw: 353.8568
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TWILIGHTFOREST_GIANT_LOG
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_HUNDRED_DOLLAR_BILL
+        amount: 2
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TWILIGHTFOREST_GIANT_COBBLESTONE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_HUNDRED_DOLLAR_BILL
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_FIFTY_DOLLAR_BILL
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TWILIGHTFOREST_FORTIFICATION_SCEPTER
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_HUNDRED_DOLLAR_BILL
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_FIFTY_DOLLAR_BILL
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TWILIGHTFOREST_ZOMBIE_SCEPTER
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_HUNDRED_DOLLAR_BILL
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_TWENTY_DOLLAR_BILL
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TWILIGHTFOREST_LIFEDRAIN_SCEPTER
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_HUNDRED_DOLLAR_BILL
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_TWENTY_DOLLAR_BILL
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TWILIGHTFOREST_ORE_MAGNET
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_FIFTY_DOLLAR_BILL
+  snapshots: []
+'28':
+  uniqueId: 21de4f2a-848e-4f8d-a618-97232f894abc
+  world: world
+  x: -461
+  y: 100
+  z: 274
+  yaw: 191.61414
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: MEASUREMENTS_TAPE_MEASURE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_DOLLAR_BILL
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: CREATE_CREATIVE_MOTOR
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_THOUSAND_DOLLAR_BILL
+        amount: 2
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: SPAWNER
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_THOUSAND_DOLLAR_BILL
+        amount: 2
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ZOMBIE_SPAWN_EGG
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_HUNDRED_DOLLAR_BILL
+        amount: 2
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: SPIDER_SPAWN_EGG
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_HUNDRED_DOLLAR_BILL
+        amount: 2
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: SKELETON_SPAWN_EGG
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_HUNDRED_DOLLAR_BILL
+        amount: 2
+  snapshots: []
+'29':
+  uniqueId: 515a0a95-08e9-488a-a326-38abad496884
+  world: world
+  x: -469
+  y: 100
+  z: 274
+  yaw: 174.84232
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IMMERSIVE_AIRCRAFT_ENGINE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_FIFTY_DOLLAR_BILL
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_TEN_DOLLAR_BILL
+        amount: 2
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IMMERSIVE_AIRCRAFT_NETHER_ENGINE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_HUNDRED_DOLLAR_BILL
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_FIFTY_DOLLAR_BILL
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: IMMERSIVE_AIRCRAFT_QUADROCOPTER
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_FIFTY_DOLLAR_BILL
+  snapshots: []
+'30':
+  uniqueId: f4ef054c-6fe3-4130-ab4b-b916b6d58c8d
+  world: world
+  x: -477
+  y: 100
+  z: 274
+  yaw: 186.82112
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENCHANTED_GOLDEN_APPLE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_HUNDRED_DOLLAR_BILL
+        amount: 3
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLDEN_APPLE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_TEN_DOLLAR_BILL
+        amount: 2
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENDER_PEARL
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_TWENTY_DOLLAR_BILL
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_TEN_DOLLAR_BILL
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: EXPERIENCE_BOTTLE
+        amount: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_TWENTY_DOLLAR_BILL
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: ENDER_CHEST
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_TWENTY_DOLLAR_BILL
+        amount: 2
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: SHULKER_SHELL
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_HUNDRED_DOLLAR_BILL
+  snapshots: []
+'31':
+  uniqueId: fdcee973-2195-426f-9143-a58091dc2a83
+  world: world
+  x: -477
+  y: 100
+  z: 252
+  yaw: 355.95197
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JEG_GRENADE
+        amount: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_TEN_DOLLAR_BILL
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JEG_STUN_GRENADE
+        amount: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_TEN_DOLLAR_BILL
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JEG_MOLOTOV_COCKTAIL
+        amount: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_FIVE_DOLLAR_BILL
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_DOLLAR_BILL
+        amount: 2
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JEG_PISTOL_AMMO
+        amount: 12
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_DOLLAR_BILL
+        amount: 2
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JEG_SHOTGUN_SHELL
+        amount: 4
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_DOLLAR_BILL
+        amount: 2
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JEG_HANDMADE_SHELL
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_DOLLAR_BILL
+        amount: 2
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JEG_RIFLE_AMMO
+        amount: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_DOLLAR_BILL
+        amount: 3
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JEG_SPECTRE_AMMO
+        amount: 7
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_FIVE_DOLLAR_BILL
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JEG_HEALING_TALISMAN
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_DOLLAR_BILL
+  snapshots: []
+'32':
+  uniqueId: c1a54db6-7c0d-4727-9fce-dca9698975f6
+  world: world
+  x: -461
+  y: 100
+  z: 252
+  yaw: 6.4125447
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TOTEM_OF_UNDYING
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_HUNDRED_DOLLAR_BILL
+        amount: 3
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_FIFTY_DOLLAR_BILL
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TRIDENT
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_HUNDRED_DOLLAR_BILL
+        amount: 2
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TNT
+        amount: 10
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_TWENTY_DOLLAR_BILL
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: FIREWORK_ROCKET
+        amount: 16
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          power: 1
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_TEN_DOLLAR_BILL
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_FIVE_DOLLAR_BILL
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: SCAFFOLDING
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_DOLLAR_BILL
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: SHIELD
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_DOLLAR_BILL
+  snapshots: []
+'39':
+  uniqueId: 5dc41f18-b19b-4890-8a52-70952c820ac8
+  world: world
+  x: -420
+  y: 103
+  z: 263
+  yaw: 91.61472
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: MAN_CULTIST
+    villagerType: SNOW
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_THE_PHAT_WALLET
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: PAPER
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_DOLLAR_BILL
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: EMERALD
+        amount: 4
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_DOLLAR_BILL
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DIAMOND
+        amount: 5
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_DOLLAR_BILL
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: GOLD_INGOT
+        amount: 15
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: JACKSECONOMY_FIFTY_DOLLAR_BILL
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: NETHERITE_INGOT
+  snapshots: []
